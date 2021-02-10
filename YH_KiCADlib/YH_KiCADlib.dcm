@@ -1,0 +1,39 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CSD88584Q5DC
+D Dual Channel Power MOSFET Driver, Q5DC, NexFET N-Channel Power MOSFET
+K NexFET Power MOSFET Dual N-MOS
+F https://www.digikey.kr/product-detail/ko/texas-instruments/CSD88599Q5DC/296-48289-1-ND/8347708
+$ENDCMP
+#
+$CMP DRV8320RS
+D Brushless DC motor controller, closed loop, hall sensor inputs, current limiting, SPI interface
+K bldc mosfet-driver hall-sensor
+F http://www.ti.com/lit/ds/symlink/drv8308.pdf
+$ENDCMP
+#
+$CMP INA199
+D Bidirectional, Low- and High-Side Voltage Output, Current-Sense Amplifier, SOT-23-6
+K current monitor shunt sensor bidirectional
+F http://www.ti.com/lit/ds/symlink/ina199.pdf
+$ENDCMP
+#
+$CMP NUCLEO-64PIN-SHELD
+D Generic connector, double row, 02x19, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)
+K connector
+F ~
+$ENDCMP
+#
+$CMP STM32G431KBTx
+D ARM Cortex-M0 MCU, 32KB flash, 4KB RAM, 48MHz, 2-3.6V, 25 GPIO, LQFP-32
+K ARM Cortex-M0 STM32F0 STM32F0x1
+F https://www.st.com/resource/en/datasheet/stm32g431c6.pdf
+$ENDCMP
+#
+$CMP TPD4S009DCKR
+D 4-Channel ESD Protection
+K ESD protection
+F http://www.ti.com/lit/ds/symlink/tpd4s009.pdf?HQS=TI-null-null-digikeymode-df-pf-null-wwe&ts=1589286607389
+$ENDCMP
+#
+#End Doc Library
