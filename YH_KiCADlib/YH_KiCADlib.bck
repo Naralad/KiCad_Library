@@ -33,13 +33,7 @@ $ENDCMP
 $CMP TPD4S009DCKR
 D 4-Channel ESD Protection
 K ESD protection
-F http://www.ti.com/lit/ds/symlink/tpd2eusb30a.pdf
-$ENDCMP
-#
-$CMP TPD4S009DCXXX
-D 4-Channel ESD Protection
-K ESD protection
-F http://www.ti.com/lit/ds/symlink/tpd2eusb30a.pdf
+F http://www.ti.com/lit/ds/symlink/tpd4s009.pdf?HQS=TI-null-null-digikeymode-df-pf-null-wwe&ts=1589286607389
 $ENDCMP
 #
 #End Doc Library

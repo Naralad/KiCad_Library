@@ -12,6 +12,12 @@ K bldc mosfet-driver hall-sensor
 F http://www.ti.com/lit/ds/symlink/drv8308.pdf
 $ENDCMP
 #
+$CMP DRV8835
+D Pololu Breakout Board, Stepper Driver DRV8825
+K Pololu Breakout Board Stepper Driver DRV8825
+F https://www.pololu.com/product/2982
+$ENDCMP
+#
 $CMP INA199
 D Bidirectional, Low- and High-Side Voltage Output, Current-Sense Amplifier, SOT-23-6
 K current monitor shunt sensor bidirectional
