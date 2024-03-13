@@ -7,3 +7,6 @@ YH_KiCADlib.pretty
 
 ======== KiCAD 7.0 ========
 YH_KiCADlib.kicad_sym
+
+======== 3D model ========
+YH_KiCADlib.3dcad
